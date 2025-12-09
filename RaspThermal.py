@@ -5,8 +5,8 @@ import argparse
 import time
 import io
 import telepot
-chat_id = 5443890447
-bot = telepot.Bot('7972098389:AAGyJnB1JJPkVI8QHd8_28tYCndJyrVdwMM')
+chat_id = 547
+bot = telepot.Bot('7972098389:A8_28tYCndJyrVdwMM')
 
 def is_raspberrypi():
     try:
